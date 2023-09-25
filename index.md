@@ -14,5 +14,4 @@ var myVar = "Hello, Friends!";
 - [x] This item is complete
 - [ ] This item is not complete
 
-Make a task list
 Merge your pull request
